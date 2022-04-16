@@ -1,0 +1,14 @@
+{
+  "short_name": "tarbiyam.uz",
+  "name": "Tarbiyam.uz",
+  "icons": [
+    {
+      "src": "tab_icon.png",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
